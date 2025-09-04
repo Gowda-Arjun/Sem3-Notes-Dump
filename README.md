@@ -1,2 +1,2 @@
-# Sem3-DSA
-Dump of DSA class notes/codes.
+# Sem3-notes-Dump
+Dump of DSA, WT (maybe more later) class notes/codes.
